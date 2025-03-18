@@ -11,7 +11,7 @@ about me!
 
 
 
-<h3>In this journey the topics I covered so far!</h3>
+<h3>In this journey the topics I have covered so far!</h3>
 <div>
   <strong>Languages:</strong>  Java, Python, JavaScript, C++, HTML, CSS<br>
   <strong>Databases:</strong> SQL, MongoDB, SQLlite<br>
@@ -40,7 +40,7 @@ about me!
   </p>
 <h3 align="left"> give a visit to My digital world : </h3>
 <p align="left">
-  <a href ="" target="blank">Visit My Digital World</a>
+  <a href ="https://aditirathi33.github.io/aditirathi.github.io/" target="blank">Visit My Digital World</a>
 
 
   
